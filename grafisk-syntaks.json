@@ -1,0 +1,14 @@
+[
+    {
+        "title": "Berlingske Barometer",
+        "image": "images/bbarometer.png",
+        "description": "Webapplikation; Berlingske Barometer viser et gennemsnit af de politiske meningsmålinger, der er blevet offentliggjort inden for de seneste 31 dage. En avanceret model ligger til grund for beregningen. Blandt andet tillægges nyere målinger mere vÃ¦gt end Ã¦ldre og de enkelte institutter vÃ¦gtes efter deres mÃ¥de at indsamle data pÃ¥.<br>Design og udvikling af Zoran Todorovic & Thomas Carlsen",
+        "link": "http://www.b.dk/berlingskebarometer"
+    },
+    {
+        "title": "De mest dødbringende jordskælv",
+        "image": "images/bjordskaelv.png",
+        "description": "Infografik; Listen over historiens vÃ¦rste jordskÃ¦lv.<br>Design og udvikling af Zoran Todorovic",
+        "link": "http://www.b.dk/viden/doedbringende-jordskaelv"
+    }
+]
